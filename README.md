@@ -1,14 +1,12 @@
 # leetcode-milestone
 
-leetcode 刷题记录
-
-每日一淦 ！！！
+leetcode 刷题记录 每日一淦 ！！！
 
 > 淦：代表的是一种态度【对自己负责 绝不敷衍】—— cszo
 
-- ✅ done
-
 ## 数据结构入门训练
+
+- ✅ done
 
 ### 第一天 数组
 
